@@ -5,5 +5,8 @@ module.exports = {
         poll: true
       }
     }
-  }
+  },
+  outputDir: 'docs',
+  assetsDir: './',
+  publicPath: './'
 }
